@@ -1,0 +1,40 @@
+﻿record_id,Participant id number
+age,Participant age in years at time of testing
+sex,"1 = male, 2 = female"
+primary_schooling,total years of primary education completed
+secondary_schooling,total years of secondary education completed
+tertiary_edu,total years of tertiary education completed
+hhie_total_calc_a,total hearing score for participants who completed testing order A
+lsns6_total_a,total social engagement score for participants who completed testing order A
+gds_total_a,total depression score for participants who completed testing order A
+eq_total_a,total emotional empathy score for participants who completed testing order A
+eq_total_b,total emotional empathy score for participants who completed testing order B
+gds_total_b,total depression score for participants who completed testing order B
+lsns6_total_b,total social engagement score for participants who completed testing order B
+hhie_total_calc_b,total hearing score for participants who completed testing order B
+t_1_hap,total emotion perecption for happy expressions
+t_1_neu,total emotion perecption for neutral expressions
+t_1_sad,total emotion perecption for sad expressions
+t_1_ang,total emotion perecption for angry expressions
+t_1_anx,total emotion perecption for anxious expressions
+t_1_rev,total emotion perecption for revolted expressions
+t_1_total,total emotion perecption across all expressions
+do_2_x_cor,"score on TASIT-S PART 2 for do questions, where x represents the video number ranging from 1-9 e.g., do_2_1_cor"
+say_2_x_cor,"score on TASIT-S PART 2 for say questions, where x represents the video number ranging from 1-10 e.g., say_2_1_cor"
+think_2_x_cor,"score on TASIT-S PART 2 for think questions, where x represents the video number ranging from 1-11 e.g., think_2_1_cor"
+feel_2_x_cor,"score on TASIT-S PART 2 for feel questions, where x represents the video number ranging from 1-12 e.g., feel_2_1_cor"
+tot_do_2_cal,total score on TASIT-S PART 2 for all do questions
+tot_think_2_calc,total score on TASIT-S PART 2 for all think questions
+tot_say_2_calc,total score on TASIT-S PART 2 for all say questions
+tot_feel_2_calc,total score on TASIT-S PART 2 for all feel questions
+do_3_x_cor,"score on TASIT-S PART 3 for do questions, where x represents the video number ranging from 1-9"
+say_3_x_cor,"score on TASIT-S PART 3 for say questions, where x represents the video number ranging from 1-10"
+think_3_x_cor,"score on TASIT-S PART 3 for think questions, where x represents the video number ranging from 1-11"
+feel_3_x_cor,"score on TASIT-S PART 3 for feel questions, where x represents the video number ranging from 1-12"
+tot_do_3_cal,total score on TASIT-S PART 3 for all do questions
+tot_think_3_calc,total score on TASIT-S PART 3 for all think questions
+tot_say_3_calc,total score on TASIT-S PART 3 for all say questions
+tot_feel_3_calc,total score on TASIT-S PART 3 for all feel questions
+rme_tot,total RME-R score
+ace_total,total general cognitive functioning score
+testing_covid,whether participant tested in person (1) or zoom (2)
